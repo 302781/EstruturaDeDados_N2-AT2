@@ -1,0 +1,6 @@
+Vencedor: Jogador (Jogador: 21, Computador: 22)
+Vencedor: Computador (Jogador: 20, Computador: 21)
+Vencedor: Jogador (Jogador: 18, Computador: 23)
+Vencedor: Computador (Jogador: 22, Computador: 15)
+Vencedor: Jogador (Jogador: 20, Computador: 23)
+Vencedor: Jogador (Jogador: 21, Computador: 19)
