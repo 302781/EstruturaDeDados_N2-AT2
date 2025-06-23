@@ -67,3 +67,22 @@ Contém toda a lógica do jogo. Os principais componentes são:
 - `imprimirMao`, `imprimirNomeCarta`: Exibem as cartas na tela.
 - `registrarPlacar`: Salva o resultado da rodada em placar.txt.
 - `exibirPlacar`: Mostra todos os resultados anteriores.
+
+3. Interface
+
+- Menu textual simples com opções:
+
+ - &nbsp; Jogar uma nova partida
+
+ - &nbsp; Ver o placar geral salvo
+
+ - &nbsp; Sair do jogo
+
+## Armazenamento de Pontuação
+
+O arquivo output/placar.txt é gerado automaticamente ao final de cada rodada. Ele contém o resultado da partida e as pontuações do jogador e do computador.
+
+Exemplo:
+```php
+Vencedor: Jogador (Jogador: 20, Computador: 18)
+```
