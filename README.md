@@ -32,7 +32,7 @@ Este é um jogo de cartas clássico implementado em linguagem C baseado na vers�
 
 ```
 ### 🔧 Compilação (Windows):
-Só executar o botão **play** do programa que estiver usando para testar!
+- Só executar o botão **play** ▶️ do programa que estiver usando para testar ou seguir a compilação do linux.
 
 ### 🔧 Compilação (Linux):
 Abra o terminal e execute:
